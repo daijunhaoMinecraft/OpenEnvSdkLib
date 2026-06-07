@@ -12,14 +12,14 @@
 
 下载完成打开压缩包:
 
-![image-20260607201855940](https://raw.githubusercontent.com/daijunhaoMinecraft/OpenEnvSdkLib/main/images/image-20260607201855940.png?token=A5A4SJ3SUVEE6YEFGRQLJ4TKEVQ7C)
+![image-20260607201855940](https://raw.githubusercontent.com/daijunhaoMinecraft/OpenEnvSdkLib/main/images/image-20260607201855940.png)
 
 然后打开你的x64_mc文件夹(游戏文件夹)
 
-![image-20260607201937155](https://raw.githubusercontent.com/daijunhaoMinecraft/OpenEnvSdkLib/main/images/image-20260607201937155.png?token=A5A4SJYZP2DLN5UERVNI72TKEVRBS)
+![image-20260607201937155](https://raw.githubusercontent.com/daijunhaoMinecraft/OpenEnvSdkLib/main/images/image-20260607201937155.png)
 
 之后进行替换文件:
 
-![image-20260607202132476](https://raw.githubusercontent.com/daijunhaoMinecraft/OpenEnvSdkLib/main/images/image-20260607202132476.png?token=A5A4SJ4TH322344Y6OPOEOLKEVRI2)
+![image-20260607202132476](https://raw.githubusercontent.com/daijunhaoMinecraft/OpenEnvSdkLib/main/images/image-20260607202132476.png)
 
 完成, 然后你可以进入游戏查看效果
