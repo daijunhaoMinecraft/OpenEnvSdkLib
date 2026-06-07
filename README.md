@@ -1,6 +1,6 @@
 # OpenEnvSdkLib
 
-![PixPin_2026-06-07_19-58-31](https://raw.githubusercontent.com/daijunhaoMinecraft/OpenEnvSdkLib/main/images/PixPin_2026-06-07_19-58-31.png?token=A5A4SJ7YVKWA3FDU56JXWRTKEVP2E)
+![PixPin_2026-06-07_19-58-31](https://github.com/daijunhaoMinecraft/OpenEnvSdkLib/raw/main/images/PixPin_2026-06-07_19-58-31.png)
 
 <p align="center" style="color: #808080">开源的 libenvsdk.dll 破解了网易我的世界敏感词检测</p>
 
@@ -12,14 +12,14 @@
 
 下载完成打开压缩包:
 
-![image-20260607201855940](https://raw.githubusercontent.com/daijunhaoMinecraft/OpenEnvSdkLib/main/images/image-20260607201855940.png)
+![image-20260607201855940](https://github.com/daijunhaoMinecraft/OpenEnvSdkLib/raw/main/images/image-20260607201855940.png)
 
 然后打开你的x64_mc文件夹(游戏文件夹)
 
-![image-20260607201937155](https://raw.githubusercontent.com/daijunhaoMinecraft/OpenEnvSdkLib/main/images/image-20260607201937155.png)
+![image-20260607201937155](https://github.com/daijunhaoMinecraft/OpenEnvSdkLib/raw/main/images/image-20260607201937155.png)
 
 之后进行替换文件:
 
-![image-20260607202132476](https://raw.githubusercontent.com/daijunhaoMinecraft/OpenEnvSdkLib/main/images/image-20260607202132476.png)
+![image-20260607202132476](https://github.com/daijunhaoMinecraft/OpenEnvSdkLib/raw/main/images/image-20260607202132476.png)
 
 完成, 然后你可以进入游戏查看效果
