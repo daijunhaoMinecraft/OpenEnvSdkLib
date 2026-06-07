@@ -5,10 +5,10 @@
 <p align="center" style="color: #808080">开源的 libenvsdk.dll 破解了网易我的世界敏感词检测</p>
 
 上述图片中的环境为单人存档, **因此多人世界仍然还是会有敏感词检测的**<br/>
-
+此软件基于 [NeteaseSensitiveWordsProject](https://github.com/daijunhaoMinecraft/NeteaseSensitiveWordsProject) 项目的基础上开发打造
 ## 安装教程
 
-首先下载 [Release]([Releases · daijunhaoMinecraft/OpenEnvSdkLib](https://github.com/daijunhaoMinecraft/OpenEnvSdkLib/releases)) 的压缩包, 按需选择下载, 其中更新日志会提供你下载指示 <br/>
+首先下载 [Release](https://github.com/daijunhaoMinecraft/OpenEnvSdkLib/releases) 的压缩包, 按需选择下载, 其中更新日志会提供你下载指示 <br/>
 
 下载完成打开压缩包:
 
